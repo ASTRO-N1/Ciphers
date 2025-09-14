@@ -1,9 +1,6 @@
 
  # Ciphers Club Website Design
-
-  This is a code bundle for Ciphers Club Website Design. The original project is available at https://www.figma.com/design/rvNrsqMlGbVLMJvZYCLUKZ/Ciphers-Club-Website-Design.
-
-  ## Running the code
+ ## Running the code
 
   Run `npm i` to install the dependencies.
 
